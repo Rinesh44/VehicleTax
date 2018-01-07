@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Vehicle Tax</string>
+    <string name="add">Add</string>
+    <string name="vehicle_info">Vehicle Information</string>
+    <string name="vehicle_edit">Edit</string>
+    <string name="view_details">View Details</string>
+    <string name="calculate_tax">Calculate Tax</string>
+    <string name="error_message">Please enter valid text</string>
+    <string name="database_check">Check DB</string>
+    <string name="tax_text">Vehicle Tax Amount:-</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="delete_check">Are you sure you want to delete?</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="reminder">Set Payment Reminder</string>
+
+    <string name="a">Motorcycle, Scooter</string>
+    <string name="b">Car, Jeep, Van, Micro-Bus</string>
+    <string name="c">Dojer, Excavator, Loader</string>
+    <string name="d">Roller, Tipper, Crane</string>
+    <string name="e">Mini-Tipper</string>
+    <string name="f">Three-Wheeler</string>
+    <string name="g">Tractor</string>
+    <string name="h">PowerTiller</string>
+    <string name="i">Mini-Truck, Mini-Bus</string>
+    <string name="j">Truck, Bus</string>
+</resources>
